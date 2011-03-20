@@ -1,0 +1,35 @@
+/* Foaie de stiluri utilizata pentru vizualizarea proiectelor propuse */
+#listing {
+  
+}
+  
+.title {  
+  letter-spacing: 0.2em;
+}
+
+.project {
+  margin-bottom: 0.2em;
+}
+
+.stud {
+  font-size: 10pt;
+  padding: 3px;
+  border-bottom: 1px dotted gray;
+  text-align: right;
+}
+.class {
+  font-family: Georgia, Arial, Helvetica, sans-serif;
+  float: right;
+  font-size: 16pt;
+  font-weight: bold;  
+  color: white; 
+}
+.a {
+  color: #030;
+}
+.b {
+  color: #003;
+}
+.c {
+  color: #300;
+}
